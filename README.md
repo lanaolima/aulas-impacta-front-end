@@ -7,4 +7,3 @@ Olá, esse é um projeto desenvolvido durante o curso de Front End da Impacta.
 - CSS
 - JavaScript (Com foco em Node para criar servidor)
 
-
